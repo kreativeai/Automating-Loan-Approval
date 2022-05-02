@@ -27,3 +27,5 @@ Automate the loan eligibility process based on customer details that are provide
 https://user-images.githubusercontent.com/78861401/166309246-4eeaea53-6f1a-4922-b8b0-a84f0a0d4045.mov
 
 
+## Conclusion
+An automatic loan approval model is developed and deployed successfully on the cloud environment (AWS server).
