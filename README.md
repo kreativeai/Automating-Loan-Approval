@@ -29,3 +29,16 @@ https://user-images.githubusercontent.com/78861401/166309246-4eeaea53-6f1a-4922-
 
 ## Conclusion
 An automatic loan approval model is developed and deployed successfully on the cloud environment (AWS server).
+
+
+## Tech Stack
+- numpy/pandas
+- sklearn
+- matplotlib/seaborn
+- LogisticRegression
+- RandomForestClassifier
+- xgboost
+- joblib
+- pipeline
+- flask
+- flask_restful
